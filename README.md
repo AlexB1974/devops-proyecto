@@ -1,15 +1,15 @@
-# 🚀 DevOps-projekt
+# DevOps-projekt
 
 Detta arkiv innehåller grundläggande struktur och verktyg för att implementera ett modernt, automatiserat och skalbart DevOps-flöde.
 
-## 📦 Innehåll
+## Innehåll
 
 - terraform/
 - ansible/
 - pipeline/
 - scripts/
 
-## 🎯 Syfte
+## Syfte
 
 Projektets syfte är att visa hur man integrerar viktiga DevOps-verktyg för att uppnå:
 
@@ -18,7 +18,7 @@ Projektets syfte är att visa hur man integrerar viktiga DevOps-verktyg för att
 - Centraliserad konfiguration
 - Effektiv övervakning och underhåll
 
-## 🛠️ Tekniker som används
+## Tekniker som används
 
 - Terraform
 - Ansible
@@ -44,6 +44,6 @@ Projektets syfte är att visa hur man integrerar viktiga DevOps-verktyg för att
    cd ../ansible
    ansible-playbook playbook.yml -i inventario
 
-## 📄 Licens
+## Licens
 
 Detta projekt är licensierat under MIT.
